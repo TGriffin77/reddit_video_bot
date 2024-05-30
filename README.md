@@ -5,6 +5,8 @@ This program was created to automate the collection and editting process of shor
 # Example
 ---
 
+https://github.com/TGriffin77/reddit_video_bot/assets/114693572/2d5537a6-9c78-4565-87df-90e69948f02f
+
 
 # The Problem
 The project was in the works right before Reddit's API change in April of 2023. This API change had effectively rendered this project useless as I could no longer work on this project without an authenticated developer account and being charged for the usage of the API. Usage of the code may not work as intended, due to this mishap and over a year of absent maintenance.
